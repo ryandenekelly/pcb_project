@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "drone_remote")(type "KiCad")(uri "C:/Users/ry-sa/Documents/KiCad/drone_remote")(options "")(descr ""))
+)

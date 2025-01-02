@@ -1,4 +1,4 @@
-24208388415542547
+24217062604683256
 690-005-299-043_EDA
 690-005-299-043_EDA
 
@@ -56811,6 +56811,27 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ECS-80-10
+SMD_ECS-80-10-3M-TR_ECS
+
+ECS-80-10-30B-CKM-TR 
+0
+4
+4
+ECS-80-10
+SMD_ECS-80-10-3M-TR_ECS-L
+
+ECS-80-10-30B-CKM-TR 
+0
+4
+4
+ECS-80-10
+SMD_ECS-80-10-3M-TR_ECS-M
+
+ECS-80-10-30B-CKM-TR 
+0
+4
+4
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -98048,3 +98069,17 @@ ECS-.327-6-17X-TR
 0
 4
 4
+drone_remote
+EDAC_690-005-299-043
+
+
+0
+9
+9
+drone_remote
+GCT_USB4105-GF-A
+
+
+0
+16
+16

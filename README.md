@@ -1,5 +1,5 @@
 # STM32 PCB PRoject
-* Very much a work in progress *
+** Very much a work in progress **
 PCB prototype project using KiCad and based on ST32F411RET7. 
 The goal is to utilise the SSD1306 or ST7735 LCD displays and RFM69 radio to make a sensor sever / controller.
 

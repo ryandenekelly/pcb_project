@@ -5,9 +5,9 @@
 	(uuid "eea619bb-8154-4280-b538-91df7eff3ed1")
 	(paper "A3")
 	(title_block
-		(title "Drone Remote")
-		(date "2025-01-09")
-		(rev "0.1")
+		(title "Senser Server")
+		(date "2025-01-16")
+		(rev "0.2")
 		(company "Ryan Kelly")
 	)
 	(lib_symbols
@@ -5532,7 +5532,6 @@
 						)
 					)
 					(alternate "" input line)
-					(alternate "" input line)
 					(alternate "RCC_OSC32_IN" bidirectional line)
 				)
 				(pin power_out line
@@ -5770,7 +5769,6 @@
 					)
 					(alternate "" input line)
 					(alternate "ADC1_EXTI15" bidirectional line)
-					(alternate "" input line)
 					(alternate "RCC_OSC32_OUT" bidirectional line)
 				)
 				(pin bidirectional line
@@ -5908,7 +5906,6 @@
 						)
 					)
 					(alternate "" input line)
-					(alternate "" input line)
 					(alternate "SPI5_MISO" bidirectional line)
 					(alternate "TIM1_ETR" bidirectional line)
 					(alternate "USART1_RTS" bidirectional line)
@@ -5932,7 +5929,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 					(alternate "" input line)
 					(alternate "SYS_JTMS-SWDIO" bidirectional line)
 				)
@@ -5989,7 +5985,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 					(alternate "" input line)
 					(alternate "SYS_JTCK-SWCLK" bidirectional line)
 				)
@@ -6402,7 +6397,6 @@
 					)
 					(alternate "" input line)
 					(alternate "ADC1_IN10" bidirectional line)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -17.78 15.24 0)
@@ -6423,7 +6417,6 @@
 					)
 					(alternate "" input line)
 					(alternate "ADC1_IN11" bidirectional line)
-					(alternate "" input line)
 				)
 			)
 		)
@@ -12076,6 +12069,76 @@
 			(type none)
 		)
 		(uuid efd97b73-419d-49c3-86d4-40105f9589fe)
+	)
+	(text "Display"
+		(exclude_from_sim no)
+		(at 327.914 17.526 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "33c451d5-a794-4c13-af7e-9a5c8e7993f7")
+	)
+	(text "USB-B UART"
+		(exclude_from_sim no)
+		(at 135.128 92.202 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b8f5df27-5d25-445c-85ad-7430fbac6610")
+	)
+	(text "MCU"
+		(exclude_from_sim no)
+		(at 23.114 161.544 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ca08c894-6520-4f54-9573-62ff1bb458a6")
+	)
+	(text "PCB Mounting Holes"
+		(exclude_from_sim no)
+		(at 34.798 97.282 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e95c4636-bdad-4c0e-9f73-0d7c34eb5e58")
+	)
+	(text "Input"
+		(exclude_from_sim no)
+		(at 249.428 94.742 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "eb0a431e-247c-4297-aefe-8a80974f0096")
+	)
+	(text "Power Input"
+		(exclude_from_sim no)
+		(at 34.036 17.018 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f59ede29-2129-4849-b385-0f685b1f3a2e")
+	)
+	(text "Radio\n"
+		(exclude_from_sim no)
+		(at 250.444 17.272 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fd040fda-597b-46e3-8d55-b703c8040482")
 	)
 	(label "ADC_VOLTAGE"
 		(at 208.28 39.37 0)

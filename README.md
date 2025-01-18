@@ -24,7 +24,7 @@ Headers for RFM69 radio and LCD displays
 ![Radio and display section of the schematic](https://github.com/ryandenekelly/pcb_project/blob/master/images/schematic_radio_disp.PNG?raw=true)
 ### Input
 Push button and encoder input with filtering.
-![Input section of the schematic](https://github.com/ryandenekellypcb_project/blob/master/images/schematic_input.PNG?raw=true)
+![Input section of the schematic](https://github.com/ryandenekelly/pcb_project/blob/master/images/schematic_input.PNG?raw=true)
 
 ## PCB
 

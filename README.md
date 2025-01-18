@@ -15,16 +15,16 @@ Circuitry to power microcontroller and its nesessary parts.
 
 USB-C/Battery power and regulator.
 
-![Power section of the schematic](https://github.com/ryandenekelly/pcb_project/blob/master/images/schematic_mcu.PNG?raw=true)
+![Power section of the schematic](https://github.com/ryandenekelly/pcb_project/blob/master/images/schematic_power.PNG?raw=true)
 ### UART
 USB-B UART input.
-![UART section of the schematic](https://github.com/ryandenekelly/pcb_project/blob/master/images/schematic_mcu.PNG?raw=true)
+![UART section of the schematic](https://github.com/ryandenekelly/pcb_project/blob/master/images/schematic_uart.PNG?raw=true)
 ### Radio and Display
 Headers for RFM69 radio and LCD displays
-![Radio and display section of the schematic](https://github.com/ryandenekelly/pcb_project/blob/master/images/schematic_mcu.PNG?raw=true)
+![Radio and display section of the schematic](https://github.com/ryandenekelly/pcb_project/blob/master/images/schematic_radio_disp.PNG?raw=true)
 ### Input
 Push button and encoder input with filtering.
-![Input section of the schematic](https://github.com/ryandenekellypcb_project/blob/master/images/schematic_mcu.PNG?raw=true)
+![Input section of the schematic](https://github.com/ryandenekellypcb_project/blob/master/images/schematic_input.PNG?raw=true)
 
 ## PCB
 

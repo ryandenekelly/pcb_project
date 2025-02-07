@@ -47,4 +47,5 @@ Bottom layer containing mostly the GND plane, with some signals from vias.
 
 ### Future Improvement
 
-Pending arrival and assemply of PCB.
+Currently in the proccess of assembling pcb. The wrong size capacitors were ordered for C13 and C14, but were assembled with some reworking.
+May need re-design on crystal oscilator to use a part that is more easily hand soldered. Boot and reset nets may need reworking.
